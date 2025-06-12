@@ -1,1 +1,0 @@
-import{l as t,H as a,w as s,J as o,o as r,A as n,d as l,t as p}from"./p68tr7qn.js";const i=t({__name:"BCardText",props:{text:{},tag:{default:"p"}},setup(d){return(e,c)=>(r(),a(o(e.tag),{class:"card-text"},{default:s(()=>[n(e.$slots,"default",{},()=>[l(p(e.text),1)])]),_:3}))}});export{i as default};

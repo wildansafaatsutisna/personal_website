@@ -1,0 +1,1 @@
+import{l as s,n as r,c as n,A as l,z as c,o as p}from"./CkSknjtt.js";const i=s({__name:"BTfoot",props:{variant:{}},setup(a){const o=a,e=r(()=>({[`table-${o.variant}`]:o.variant!==void 0}));return(t,m)=>(p(),n("tfoot",{role:"rowgroup",class:c(e.value)},[l(t.$slots,"default")],2))}});export{i as default};
