@@ -1,0 +1,1 @@
+import{l as t,H as a,w as s,J as o,o as r,A as n,d as l,t as p}from"./BIxM6DAl.js";const m=t({__name:"BCardTitle",props:{text:{},tag:{default:"h4"}},setup(c){return(e,d)=>(r(),a(o(e.tag),{class:"card-title"},{default:s(()=>[n(e.$slots,"default",{},()=>[l(p(e.text),1)])]),_:3}))}});export{m as _};

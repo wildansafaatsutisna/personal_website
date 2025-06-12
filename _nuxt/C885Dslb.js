@@ -1,0 +1,1 @@
+import{l as e,H as a,J as o,w as s,o as r,A as n,d as p,t as l}from"./BIxM6DAl.js";const d=e({__name:"BInputGroupText",props:{tag:{default:"div"},text:{}},setup(u){return(t,i)=>(r(),a(o(t.tag),{class:"input-group-text"},{default:s(()=>[n(t.$slots,"default",{},()=>[p(l(t.text),1)])]),_:3}))}});export{d as _};

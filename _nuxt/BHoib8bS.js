@@ -1,0 +1,1 @@
+import{l as t,c as s,A as o,a as r,o as n,d as a,t as l}from"./BIxM6DAl.js";const d={class:"form-floating"},i=["for"],m=t({__name:"BFormFloatingLabel",props:{labelFor:{},label:{},text:{}},setup(p){return(e,c)=>(n(),s("div",d,[o(e.$slots,"default",{},()=>[a(l(e.text),1)]),r("label",{for:e.labelFor},[o(e.$slots,"label",{},()=>[a(l(e.label),1)])],8,i)]))}});export{m as default};
