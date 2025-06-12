@@ -1,1 +1,0 @@
-import{l as t,c as a,A as s,o,d as r,t as n}from"./G6z7ef1c.js";const l={class:"navbar-text"},d=t({__name:"BNavText",props:{text:{}},setup(c){return(e,p)=>(o(),a("li",l,[s(e.$slots,"default",{},()=>[r(n(e.text),1)])]))}});export{d as default};
