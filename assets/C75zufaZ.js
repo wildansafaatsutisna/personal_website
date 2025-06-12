@@ -1,1 +1,0 @@
-import{u as s}from"./D_gjbH0-.js";import"./C4E6UyWt.js";import"./2m5216oT.js";import{l as t,v as r,A as e,q as l}from"./p68tr7qn.js";const c=t({__name:"BSkeletonWrapper",props:{loading:{type:[String,Boolean],default:!1}},setup(a){const n=s(r(a,"loading"));return(o,i)=>l(n)?e(o.$slots,"loading",{key:0}):e(o.$slots,"default",{key:1})}});export{c as default};
