@@ -1,1 +1,0 @@
-import{_ as o}from"./DlAUqK2U.js";import{c as r,o as s,a as t,A as a}from"./BIxM6DAl.js";const c={},n={role:"presentation"},_={class:"px-4 py-3"};function l(e,d){return s(),r("li",n,[t("form",_,[a(e.$slots,"default")])])}const i=o(c,[["render",l]]);export{i as default};

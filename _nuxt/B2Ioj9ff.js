@@ -1,1 +1,0 @@
-import{_ as r}from"./BCNq8rF9.js";import{l as s,H as o,w as n,L as c,o as d,A as p}from"./BIxM6DAl.js";const _=s({__name:"BCardHeader",props:{text:{},bgVariant:{},borderVariant:{},html:{},tag:{default:"div"},textVariant:{}},setup(a){const e=a;return(t,i)=>(d(),o(r,c({class:"card-header"},e),{default:n(()=>[p(t.$slots,"default")]),_:3},16))}});export{_};

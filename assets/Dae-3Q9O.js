@@ -1,0 +1,1 @@
+import{l as o,H as a,w as s,J as t,o as r,A as n}from"./RSFrvBQS.js";const f=o({__name:"BFormRow",props:{tag:{default:"div"}},setup(l){return(e,p)=>(r(),a(t(e.tag),{class:"row d-flex flex-wrap"},{default:s(()=>[n(e.$slots,"default")]),_:3}))}});export{f as _};

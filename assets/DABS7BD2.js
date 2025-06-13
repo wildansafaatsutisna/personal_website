@@ -1,0 +1,1 @@
+import{l as t,n as r,c as n,A as l,z as c,o as p}from"./RSFrvBQS.js";const u=t({__name:"BThead",props:{variant:{}},setup(e){const a=e,o=r(()=>({[`table-${a.variant}`]:a.variant!==void 0}));return(s,d)=>(p(),n("thead",{role:"rowgroup",class:c(o.value)},[l(s.$slots,"default")],2))}});export{u as default};

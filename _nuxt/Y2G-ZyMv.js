@@ -1,1 +1,0 @@
-import{l as t,n as r,c as n,A as l,z as c,o as p}from"./BIxM6DAl.js";const u=t({__name:"BTr",props:{variant:{}},setup(e){const a=e,s=r(()=>({[`table-${a.variant}`]:a.variant!==void 0}));return(o,m)=>(p(),n("tr",{role:"row",class:c(s.value)},[l(o.$slots,"default")],2))}});export{u as default};

@@ -1,1 +1,0 @@
-import{M as v,G as a}from"./BIxM6DAl.js";const d=(o,s,u)=>{v(()=>{var r;(r=o==null?void 0:o.value)==null||r.addEventListener(s,u)}),a(()=>{var r;(r=o==null?void 0:o.value)==null||r.removeEventListener(s,u)})};export{d as u};

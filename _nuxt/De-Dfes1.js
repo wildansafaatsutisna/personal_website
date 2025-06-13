@@ -1,1 +1,0 @@
-import{u as s}from"./BOdXJ80I.js";import"./CL3DjtZe.js";import"./B2fZ1eXa.js";import{l as n,v as t,A as e,q as l}from"./BIxM6DAl.js";const c=n({__name:"BPlaceholderWrapper",props:{loading:{type:[String,Boolean],default:!1}},setup(a){const r=s(t(a,"loading"));return(o,i)=>l(r)?e(o.$slots,"loading",{key:0}):e(o.$slots,"default",{key:1})}});export{c as default};
